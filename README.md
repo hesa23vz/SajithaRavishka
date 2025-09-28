@@ -48,8 +48,8 @@ Focus areas: planning & scheduling (Primavera P6), delay analysis, 4D/5D BIM, an
 - **Embodied Carbon Module** — JS package for Level(s) indicators (operational + embodied)
 
 ## 📫 Contact
-- Email: you@email.com  
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK/
+- Email: sajithaswe1991@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/sajitha-ravishka-premathilake-98543915a/
 
 ---
 
