@@ -50,8 +50,4 @@ Focus areas: planning & scheduling (Primavera P6), delay analysis, 4D/5D BIM, an
 
 ---
 
-<!-- Optional: GitHub stats widgets -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true" height="150">
-  <img src="https://streak-stats.demolab.com?user=Sajitha Ravishka" height="150">
-</p>
+
