@@ -44,7 +44,7 @@ Focus areas: planning & scheduling (Primavera P6), delay analysis, 4D/5D BIM, an
   Interactive 3D Smart House Simulator built with **Three.js + Node.js/React**.  
   Features: real-time energy monitoring, carbon impact calculator, and occupancy tracking.
 
-![Simulator Preview](https://raw.githubusercontent.com/hesa23vz/smart-house-dashboard/main/Screenshot.png)
+![Simulator Preview](https://raw.githubusercontent.com/hesa23vz/smart-house-dashboard/main/screenshot.png)
 
 - **EPC Planning Toolkit** — P6 schedule health checks, EVM, delay analysis macros  
 - **Embodied Carbon Module** — JS package for Level(s) indicators (operational + embodied)
