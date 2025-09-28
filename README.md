@@ -7,11 +7,8 @@
 <h1 align="center">BIM / Digital Twin & Project Controls — Sweden</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK/">
+  <a href="https://www.linkedin.com/in/sajitha-ravishka-premathilake-98543915a/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://YOUR-PORTFOLIO-OR-GITHUB-PAGES">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white">
   </a>
   <a href="mailto:you@email.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
