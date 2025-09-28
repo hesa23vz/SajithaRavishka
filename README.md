@@ -1,7 +1,7 @@
 # SajithaRavishka
 <!-- Centered banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Header" width="75%">
+  <img src="assets/banner.jpeg" alt="Header" width="75%">
 </p>
 
 <h1 align="center">BIM / Digital Twin & Project Controls — Sweden</h1>
