@@ -46,7 +46,7 @@ Focus areas: planning & scheduling (Primavera P6), delay analysis, 4D/5D BIM, an
 
 <p align="center">
   <a href="https://github.com/hesa23vz/smart-house-dashboard">
-    <img src="https://raw.githubusercontent.com/hesa23vz/hes23vz/main/assets/screenshot.png" 
+    <img src="https://raw.githubusercontent.com/hesa23vz/hesa23vz/main/assets/screenshot.png" 
          alt="Smart House Simulator Preview" width="75%">
   </a>
 </p>
