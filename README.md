@@ -1,4 +1,4 @@
-# SajithaRavishka
+# Sajitha Ravishka
 <!-- Centered banner -->
 <p align="center">
   <img src="assets/banner.jpeg" alt="Header" width="75%">
