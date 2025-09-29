@@ -55,10 +55,6 @@ Focus areas: planning & scheduling (Primavera P6), delay analysis, 4D/5D BIM, an
 - **EPC Planning Toolkit** — P6 schedule health checks, EVM, delay analysis macros  
 - **Embodied Carbon Module** — JS package for Level(s) indicators (operational + embodied)
 
-## 📫 Contact
-- Email: sajithaswe1991@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/sajitha-ravishka-premathilake-98543915a/
-
 ---
 
 
